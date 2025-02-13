@@ -1,5 +1,5 @@
-import React, { useRef } from 'react'
-import { motion, AnimatePresence, useInView } from "framer-motion";
+import{ useRef } from 'react'
+import { motion, useInView } from "framer-motion";
 
 interface project_schema {
   "image_link"?: string,
