@@ -1,0 +1,12 @@
+@import "tailwindcss";
+#root{
+  background: radial-gradient(
+    circle closest-corner at center center,
+    #222,
+    black 40%
+  ) no-repeat;
+  background-size: 100%;
+  box-sizing: border-box;
+  background-position:100%;
+  color: white;
+}
